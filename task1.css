@@ -203,10 +203,16 @@ footer{
     .title{
         font-size: 75px;
         text-align: center;
+        font-family: "Protest Guerrilla", sans-serif;
+        font-weight: 400;
+        font-style: normal;
     }
     .subtitle{
         font-size: 70px;
         text-align: center;
+        font-family: "Protest Guerrilla", sans-serif;
+        font-weight: 400;
+        font-style: normal;
     }
     .title_text{
         font-size: 25px;
@@ -336,9 +342,15 @@ footer{
 
     .title{
         font-size: 55px;
+        font-family: "Protest Guerrilla", sans-serif;
+        font-weight: 400;
+        font-style: normal;
     }
     .subtitle{
         font-size: 50px;
+        font-family: "Protest Guerrilla", sans-serif;
+        font-weight: 400;
+        font-style: normal;
     }
     .title_text{
         font-size: 20px;
@@ -462,9 +474,15 @@ footer{
 
     .title{
         font-size: 40px;
+        font-family: "Protest Guerrilla", sans-serif;
+        font-weight: 400;
+        font-style: normal;
     }
     .subtitle{
         font-size: 35px;
+        font-family: "Protest Guerrilla", sans-serif;
+        font-weight: 400;
+        font-style: normal;
     }
     .title_text{
         font-size: 20px;
