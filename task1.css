@@ -18,6 +18,7 @@ body, html{
 
 header{
     text-align: center;
+    padding-top: 50px;
 }
 
 #logo{
@@ -127,9 +128,12 @@ h1{
     margin-left: 50px;
 }
 
-h3{
+h2{
     text-align: center;
     font-size: 60px;
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .beside, p{
@@ -140,6 +144,7 @@ h3{
     width: 200px;
     /*border radius to make the image circular*/
     border-radius: 50%; 
+    border: solid black 2px;
 
 }
 
@@ -172,6 +177,7 @@ footer{
     
     header{
         text-align: center;
+        padding-top: 30px;
     }
     
     #logo{
@@ -268,9 +274,12 @@ footer{
         margin-left: 30px;
     }
     
-    h3{
+    h2{
         text-align: center;
         font-size: 60px;
+        font-family: "Protest Guerrilla", sans-serif;
+        font-weight: 400;
+        font-style: normal;
     }
     
     .beside, p{
@@ -279,7 +288,8 @@ footer{
     
     #pfp{
         width: 200px;
-        border-radius: 50%; 
+        border-radius: 50%;
+        border: solid black 2px; 
     }
     
     footer{
@@ -311,6 +321,7 @@ footer{
 
     header{
         text-align: center;
+        padding-top: 20px;
     }
     
     #logo{
@@ -397,9 +408,12 @@ footer{
         border: solid black 1px;
     }
 
-    h3{
+    h2{
         text-align: center;
         font-size: 50px;
+        font-family: "Protest Guerrilla", sans-serif;
+        font-weight: 400;
+        font-style: normal;
     }
 
     .beside, p{
@@ -410,7 +424,8 @@ footer{
         width: 200px;
         border-radius: 50%;
         /*order set to -1 for the image to be above the text */
-        order: -1; 
+        order: -1;
+        border: solid black 2px; 
     }
 
     footer{
@@ -443,6 +458,7 @@ footer{
 
     header{
         text-align: center;
+        padding-top: 12px;
     }
     
     #logo{
@@ -525,9 +541,12 @@ footer{
         border: solid black 1px;
     }
 
-    h3{
+    h2{
         text-align: center;
         font-size: 40px;
+        font-family: "Protest Guerrilla", sans-serif;
+        font-weight: 400;
+        font-style: normal;
     }
 
     .beside, p{
@@ -538,6 +557,7 @@ footer{
         width: 200px;
         border-radius: 50%;
         order: -1; 
+        border: solid black 2px;
     }
 
     footer{
